@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<script>
+let name = prompt("Enter your name");
+let random = Math.random();
+let house;
+
+if (random < 0.25) {
+    house = "Gryffindor";
+}
+else if (random < 0.5) {
+    house = "Slytherin";
+}
+else if (random < 0.75) {
+    house = "Hufflepuff";
+}
+else {
+    house = "Ravenclaw";
+}
+
+document.write(name + ", you are " + house + ".");
+</script>
+
+</body>
+</html>
