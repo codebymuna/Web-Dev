@@ -8,3 +8,6 @@
 
 ## js-4
 1 to 7 completed. 58% done.
+
+## Python Flask Server
+1 and 2 completed. 
