@@ -10,4 +10,7 @@
 1 to 7 completed. 58% done.
 
 ## Python Flask Server
-1 and 2 completed. 
+1 and 2 completed.  67% done
+
+## AJAX 
+1 to 4 completed. 57% done.
